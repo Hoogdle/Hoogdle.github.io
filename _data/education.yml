@@ -1,6 +1,17 @@
-- School: Princeton
-  Degree: 
-  Program: School of Public and International Affairs
+- School: Chungbuk National University
+  Degree: Computer Science(Concentration in AI)
+  Program: B.S Program
+  Start Date: 2023-03-01
+  End Date: 2026-02-19
+  Icon: /assets/img/icons/logos/cbnulogo.jpg      # Make this icon small, think 30px/30px
+
+- School: UNIST
+  Degree: Artificial Intelligence
+  Program: Combined M.S./Ph.D. Program 
   Start Date: 
   End Date: 
-  Icon: /assets/img/icons/2x/princeton-crop.png      # Make this icon small, think 30px/30px
+  Icon: /assets/img/icons/logos/unistlogo.png      # Make this icon small, think 30px/30px
+
+  
+
+  
