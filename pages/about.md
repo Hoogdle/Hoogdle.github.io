@@ -13,6 +13,7 @@ last-updated: 2020-10-30 5:55 PM
 Hi, I'm Kim Taeyeong, AI Researcher working in <a href = "https://aigs.unist.ac.kr/eng/"><u>UNIST AI Graduate School</u></a> with PI <a href = "https://www.ysjang.me/"><u>Youngsoo Jang.</u></a>
 
 <br>
+
 <hr>
 **Preferred Research**
 
