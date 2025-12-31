@@ -9,6 +9,7 @@ last-updated: 2020-10-30 5:55 PM
 
 <h1 class="mx-auto" style="font-family:Courgette;">{{ page.title }}</h1>
 
+<br> 
 Hi, I'm Kim Taeyeong, AI Researcher working in <a href = "https://aigs.unist.ac.kr/eng/"><u>UNIST AI Graduate School</u></a> with PI <a href = "https://www.ysjang.me/"><u>Youngsoo Jang.</u></a>
 
 <br>
@@ -40,8 +41,14 @@ I recommend you to do both of them. there are very wonderful, really!
 <hr>
 **Philosophy**
 
-In my young age, and until now, I usaully think about our life.
+In my young age, and until now, I usually think about our life.<br>
+It's too hard to make a conclusion of what is good life in this world.<br>
+But I think most noble life is a life we put our own self into the things we usually do.<br>
 
+In that journey, it makes great lesson for ourselves,<br>
+Through those lesson we can achieve what we want, not a consequence of that journey.<br>
+
+That's why I'm trying to work hard in my research!, of course its very hard..!
 <hr>
 
 
