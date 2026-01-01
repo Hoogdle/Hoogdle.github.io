@@ -27,6 +27,13 @@ code {
   background-color : #001B54 !important;
 }
 
+
+.col-md-4 {
+  display: flex;
+  align-items: center;
+  /* Optional: justify-content: center; if you want it horizontally centered too */
+}
+
 a.highlighted, a.highlighted:link {
   color: black;
   text-decoration: none;
