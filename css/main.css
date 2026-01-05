@@ -28,6 +28,9 @@ code {
 }
 
 
+.card-body{
+  padding : 0rem !important;
+}
 .col-md-4 {
   display: flex;
   align-items: center;
