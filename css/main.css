@@ -28,8 +28,16 @@ code {
 }
 
 
+.mx-auto{
+  display: none !important;
+}
+
 .card-body{
   padding : 0rem !important;
+}
+
+.card-title{
+  padding-bottom: 10px !important;
 }
 
 .col-md-4 {
@@ -37,6 +45,19 @@ code {
   align-items: center;
   
   /* Optional: justify-content: center; if you want it horizontally centered too */
+}
+
+.container{
+  width: 100%;
+  padding-right: 5px;
+  
+}
+
+.col-md-12{
+  position : relative;
+  width: 100%;
+  padding-right: 0px !important;
+  padding-left: 0px  !important;
 }
 
 a.highlighted, a.highlighted:link {
@@ -574,7 +595,7 @@ border-radius: 0%;
   background: #fff;
   box-shadow: 0 6px 10px rgba(0,0,0,.08), 0 0 6px rgba(0,0,0,.05);
     transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
-  padding: 14px 80px 18px 36px;
+  padding: 14px 40px 12px 40px;
   cursor: pointer;
 }
 
@@ -598,28 +619,24 @@ max-height: 120px;
 background-image: url(https://ionicframework.com/img/getting-started/ionic-native-card.png);
   background-repeat: no-repeat;
   background-position: right;
-  background-size: 80px;
+  background-size: 40px;
 }
 
 .card-2{
  background-image: url(https://ionicframework.com/img/getting-started/components-card.png);
     background-repeat: no-repeat;
   background-position: right;
-  background-size: 80px;
+  background-size: 40px;
 }
 
 .card-3{
  background-image: url(https://ionicframework.com/img/getting-started/theming-card.png);
     background-repeat: no-repeat;
   background-position: right;
-  background-size: 80px;
+  background-size: 40px;
 }
 
-@media(max-width: 990px){
-.blogcard{
-  margin: 20px;
-}
-} 
+
 
 a:link {color: black;}      /* unvisited link */
 a:visited {color: black;}   /* visited link */

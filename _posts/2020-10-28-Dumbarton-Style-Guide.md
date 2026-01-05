@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Dumbarton Style Guide"
-description: "The Only Useful Post Here"
+title:  "Paper Review"
+description: "Reviewing AI Research Papers by own myself, LLM and RL."
 type: card-dated
 date:   2020-10-28 20:01:21 -0400
 categories: Dumabrton style
@@ -9,9 +9,9 @@ image: http://placehold.it/750X300?text=Header+Image # for local images, place i
 caption:
 last-updated: 2020-10-26 20:01:21 -0400
 categories: post
-tag: styleguide
-author: Tyler Butler
-card: card-1
+tag: AI, RL
+author: Kim Taeyeong
+card: card-2
 ---
 
 + [Markdown](#markdown)

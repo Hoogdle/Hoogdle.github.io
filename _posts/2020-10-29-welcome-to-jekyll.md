@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-description: "A Preset Post from Jekyll"
+title:  "Statistics for Machine Learning"
+description: "Theory of Statistics using in Machine Learning."
 type: card-dated
 date:   2020-10-29 20:01:21 -0400
 categories: jekyll update
@@ -9,8 +9,8 @@ image: http://placehold.it/750X300?text=Header+Image # for local images, place i
 caption:
 last-updated: 2020-10-26 20:01:21 -0400
 categories: post
-tag: jekyll
-author: Tyler Butler
+tag: Statistics, ML
+author: Kim Taeyeong
 card: card-2
 ---
 
