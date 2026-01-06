@@ -20,7 +20,19 @@ so that I will handle both of them usually.
 
 This post is consist of serveral article, you can easily go to the article by hyperlink table.
 
-##### Reinforcement Learning
-<a href="#latent-reasoning">Latent Reasoning</a>
 
-<h5 id="latent-reasoning">Latent Reasoning</h5>
+##### **Reinforcement Learning**
+<ul style="color:blue">
+  <a href="/post/2020/10/29/Paper-Review.html#latent-reasoning" style="color:navy; margin-bottom:0rem;"><strong>Latent Reasoning</strong></a>
+  <li style="font-size : 13px">
+    Training Large Language Models to Reason in a Continuous Latent Space
+  </li>
+</ul>
+
+
+<hr>
+<h5 id="latent-reasoning"><strong>Latent Reasoning</strong></h5>
+
+Before jumping into Latent Reasoning, you should know about Chaing-of-Thought(CoT), of course how the LLM works.
+
+<hr>
