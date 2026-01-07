@@ -9,7 +9,7 @@ image: http://placehold.it/750X300?text=Header+Image # for local images, place i
 caption:
 last-updated: 2025-01-07 09:01:21 -0000
 categories: post
-tag: AI, RL
+tag: AI, LLM, RL
 author: Kim Taeyeong
 card: card-2
 ---
@@ -29,7 +29,7 @@ This post is consist of serveral article and each article deals one research pap
 <hr>
 <h5 id="latent-reasoning"><strong><mark>§ Latent Reasoning</mark></strong></h5>
 
-Before jumping into Latent Reasoning, you should know about Chaing-of-Thought(CoT), of course how the LLM works. But don't worry! I will exaplain what they are in simple way in this article. If you want to know about it in more detail, please see another article.
+Before jumping into Latent Reasoning, you should know about Chaing-of-Thought(CoT), of course how the LLM works. But don't worry! I will explain what they are in simple way in this article. If you want to know about it in more detail, please see another article.
 
 
 <b><mark>· LLM Mechanism</mark></b><br>
@@ -43,6 +43,7 @@ I think you have a experience using **generative AI model** such as Chat GPT, Ge
   <li><b>Auto-Regressive</b></li>
 </ul>
 
+To make high quality sentence, we must consider context information from given text.
 
 <b><mark>· Chaing of Thought</mark></b><br>
 
